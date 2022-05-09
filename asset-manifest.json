@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WhetherApp/static/css/main.f0c0c74f.css",
+    "main.js": "/WhetherApp/static/js/main.3a86dbb9.js",
+    "static/media/warm-bg.jpg": "/WhetherApp/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/WhetherApp/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/WhetherApp/index.html",
+    "main.f0c0c74f.css.map": "/WhetherApp/static/css/main.f0c0c74f.css.map",
+    "main.3a86dbb9.js.map": "/WhetherApp/static/js/main.3a86dbb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c0c74f.css",
+    "static/js/main.3a86dbb9.js"
+  ]
+}
